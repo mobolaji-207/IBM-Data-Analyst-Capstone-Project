@@ -25,8 +25,8 @@ As a **Business and Marketing professional**, I approached this data with a focu
 * **Market Demand:** Used 2x2 matrix visualizations to compare current technology usage vs. future interest.
 
 ## 🚀 About the Author
-* **HABEEB MOBOLAJI LAWAL**
-* **Data Analyst | Business Strategy & Entrepreneurship**
+ **HABEEB MOBOLAJI LAWAL**
+   **Data Analyst | Business Strategy & Entrepreneurship**
 
 I am a **Bachelor of Business, Entrepreneurship, and Marketing** graduate transitioning into the Data Analytics field. My unique background allows me to bridge the gap between complex data technicalities and high-level business strategy. 
 
@@ -34,4 +34,4 @@ I am a **Bachelor of Business, Entrepreneurship, and Marketing** graduate transi
 * **Certifications:** IBM Data Analyst Professional Certificate | Bsc. in Business Administration.
 
 ---
-*Feel free to reach out via LinkedIn: https://www.linkedin.com/in/habeeb-lawal-624603387/ for collaboration or inquiries!*
+*Feel free to reach out via LinkedIn: https://www.linkedin.com/in/habeeb-lawal-624603387/  or EMAIL: habeebm.lawal@gmail.com  for collaboration or inquiries!*
