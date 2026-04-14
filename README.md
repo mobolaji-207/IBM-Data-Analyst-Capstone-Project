@@ -13,10 +13,11 @@ As a **Business and Marketing professional**, I approached this data with a focu
 * **Microsoft Excel:** Initial data exploration and pivot table analysis.
 
 ## 📁 Repository Contents
-* `Data_Analysis_with_Python.ipynb`: The complete Jupyter Notebook containing code for data cleaning, EDA, and statistical plotting.
-* `Database_Queries.sql`: A collection of SQL queries used to extract specific insights from the survey database.
-* `Final_Presentation.pdf`: A comprehensive 14-slide report summarizing findings for stakeholders.
-
+*`Collecting_job_data_using_APIs-Lab.ipynb`: The complete Jupyter Notebook containing code for collecting job data using Jobs API, and how it was Stored into an excel spreadsheet.
+*`Web-Scraping-Lab.ipynb`:The complete Jupyter Notebook containing code for Extracting information from a web site, and writing the scraped data into a csv file.
+*`Lab 11 Finding How The Data is Distributed.ipy`:The complete Jupyter Notebook containing code for data cleaning, EDA, and statistical plotting.
+*`Lab 14 Data Visualization - Histogram.ipynb`:  A collection of SQL queries used to extract specific insights from the survey database.
+* `Data Analyst Capstone Project Report.pdf`: A comprehensive 14-slide report summarizing findings for stakeholders.
 ## 🔍 Key Findings & Analysis
 * **Technology Trends:** Identified the top 5 most-demanded programming languages and their growth trajectory over the next 2 years.
 * **Salary Insights:** Conducted a deep dive into salary distributions across different regions and experience levels.
